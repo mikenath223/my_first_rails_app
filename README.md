@@ -1,5 +1,4 @@
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 # First Rails App
 
@@ -88,5 +87,3 @@ Ukeje Michgolden
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/mikenath223/my_first_rails_app
 [issues-url]: https://github.com/mikenath223/my_first_rails_app/issues
-[license-shield]: https://img.shields.io/github/license/mikenath223/my_first_rails_app
-[license-url]: https://github.com/mikenath223/my_first_rails_app/blob/master/LICENSE.txt
