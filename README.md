@@ -2,19 +2,22 @@
 [![MIT License][license-shield]][license-url]
 
 # First Rails App
-    <p align="center">
-    <h3 align="center">First rails App</h3>
+
+<br />
+<p align="center">
+  <h3 align="center">
+	First rails App
+  </h3>
+    <h3 align="center">
+    Live Version on Heroku - https://fathomless-thicket-19768.herokuapp.com/cars
+    </h3>
     
-    <h3 align="center">Live Version on Heroku - https://fathomless-thicket-19768.herokuapp.com/cars</h3>
-    </p>
-This is basically my first rails app.
+<p align="center">
+    A car generator app for geerating different models of cars directly from the browser with a text editor.This is basically my first rails app.
 It allows users to create, update, and delete info from a database.
 So here one can create different models of cars 
 You will also have to ability to delete items you added to the databse.
 All happening instantaneously on the browser.
-
-<p align="center">
-    A car generator app for geerating different models of cars directly from the browser with a text editor.
     <br />
     <a href="https://github.com/mikenath223/my_first_rails_app/blob/master/README.md"><strong>Explore the docs 📜</strong></a>
     <br />
@@ -26,6 +29,7 @@ All happening instantaneously on the browser.
     🙏
     <a href="https://github.com/mikenath223/my_first_rails_app/issues">Request Feature</a>
   </p>
+</p>
 
 ## Built With
 
@@ -38,6 +42,9 @@ All happening instantaneously on the browser.
   Version: 5.2.3
 
 * Linux OS
+
+## Screenshot
+![screenshot](./docs/first-rails-app.png)
 
 # Get Started
  This section constains instructions on how to get the project set up and running on your local machine and also  deploy on heroku and build on docker.
