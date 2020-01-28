@@ -44,7 +44,7 @@ All happening instantaneously on the browser.
 * Linux OS
 
 ## Screenshot
-![screenshot](./docs/first-rails-app.png)
+![screenshot](./first-rails-app.png)
 
 # Get Started
  This section constains instructions on how to get the project set up and running on your local machine and also  deploy on heroku and build on docker.
